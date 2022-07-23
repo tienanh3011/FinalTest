@@ -20,7 +20,7 @@ namespace Test
             Console.WriteLine("5.Demo sx tang dan");
             Console.WriteLine("6.Thoat");
            chon = Convert.ToInt32(Console.ReadLine());
-            n = 3;
+            n = 7;
             int[] arr1 = new int[n];
             switch (chon)
             {
